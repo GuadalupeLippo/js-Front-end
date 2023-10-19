@@ -1,0 +1,32 @@
+body{
+background-color: azure;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.conteiner-api{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:2rem;
+    justify-content:space-around;
+}
+
+article{
+    width: 320px;
+    text-align: center;
+    border-style: dashed;
+    background-color: rgb(204, 255, 255);
+    padding: 1rem;
+
+}
+article h2 {
+    color:rgb(6, 6, 139) ;
+}
+h1{
+    text-align: center;
+   background-color: rgb(156, 238, 238);
+    font-size:50px;
+    margin-top:50px;
+    padding: 50px;
+    color: rgb(6, 6, 139);
+}
