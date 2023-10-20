@@ -12,7 +12,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 }
 
 article{
-    width: 320px;
+    width: 200px;
     text-align: center;
     border-style: dashed;
     background-color: rgb(204, 255, 255);
@@ -21,6 +21,9 @@ article{
 }
 article h2 {
     color:rgb(6, 6, 139) ;
+}
+article img {
+    width: 70%;
 }
 h1{
     text-align: center;
